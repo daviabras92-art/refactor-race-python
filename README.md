@@ -2,10 +2,12 @@
 
 ## EQUIPE
 
-- Integrante 1: [Nome completo]
-- Integrante 2: [Nome completo]
-- Integrante 3: [Nome completo]
-- Integrante 4: [Nome completo, se houver]
+- Integrante 1: Adriano Neto 
+- Integrante 2: Davi Abras 
+- Integrante 3: Gustavo Edson
+- Integrante 4: Heitor Souza
+- Integrante 5: João Vitor Jesus
+- Integrante 6: Luiz Felipe Dasmaceno
 
 ## PENDÊNCIAS PARA A ENTREGA
 
